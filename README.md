@@ -39,8 +39,3 @@ Delete Component: Allows you to delete a ship.
    cd shipproject
 >>>>>>> e5b4f1fbef47e3461be13dd2f115608b90e35206
 
-##licence
-
-
-This template provides a structure commonly used in README files. Adjust the sections, content, and formatting as needed to suit your project's specifics.
- 
