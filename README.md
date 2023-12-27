@@ -14,9 +14,9 @@ Delete Component: Allows you to delete a ship.
 
 - asp.net core
 - ReactJS
--Redux
--typescripte 
--Fake API for asynchronous operations
+- Redux
+- typescripte 
+- Fake API for asynchronous operations
 - Axios (for HTTP requests)
 
 
